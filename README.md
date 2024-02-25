@@ -2,6 +2,9 @@
 
 ## ✌🏻 Seja bem vindo ao meu perfil 🌌
 
+![M⊿RICKY⊿⊿⊿](https://github.com/AndressaSilva0/angular-blog/assets/98890268/64765b18-9d33-4978-a5f0-498e0def72f7)
+
+
 ##
 ## 📊 Github Stats
 <a href="https://github.com/AndressaSilva0"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndressaSilva0&show_icons=true&count_private=true&theme=gruvbox" /></a>
@@ -11,6 +14,7 @@
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
