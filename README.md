@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=150&section=header"/>
 
 # 👋🏻   Olá, meu nome é Andressa Silva
 
@@ -9,14 +9,12 @@
 
 ##
 ## 📊 Github Stats
-<a href="https://github.com/AndressaSilva0"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndressaSilva0&show_icons=true&count_private=true&theme=gruvbox" /></a>
-<a href="https://github.com/AndressaSilva0"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaSilva0&langs_count=8&count_private=true&layout=compact&theme=gruvbox"/></a>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndressaSilva0&bg_color=3c0061&color=0f9885&line=b069db&point=4682B4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/AndressaSilva0"><img alt="Dunsin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AndressaSilva0&show_icons=true&count_private=true&theme=radical" /></a>
+<a href="https://github.com/AndressaSilva0"><img alt="Dunsin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaSilva0&langs_count=8&count_private=true&layout=compact&theme=radical"/></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndressaSilva0&bg_color=3c0061&color=b069db&line=b069db&point=4682B4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndressaSilva0&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=74344E&text_color=c9d1d9&bg_color=0d1117" alt="Everton Caldeira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaSilva0&layout=compact&hide_border=true&title_color=4682B4&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+
+
 ##
 ## 👩🏻‍💻 Habilidades
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
@@ -42,4 +40,4 @@
 <a href="https://twitter.com/saturn_girlxxxx?t=wGEM85jVCe-lnfrveO51SQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=940091&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=150&section=footer"/>
