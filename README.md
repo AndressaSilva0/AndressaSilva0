@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=150&section=header"/>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&size=35&center=true&vCenter=true&width=1000&lines=Greetings,+My+name+is+Andressa+Silva;I+am+a+Computer+Science+student;Wellcome)](https://git.io/typing-svg) 
-
+<div align="center"> 
+    <p>Meu nome é Andressa Silva, sou academica em Ciencia da Computação</p>
+</div>
 <div align="center"> 
   
   ![M⊿RICKY⊿⊿⊿](https://github.com/AndressaSilva0/angular-blog/assets/98890268/64765b18-9d33-4978-a5f0-498e0def72f7)
