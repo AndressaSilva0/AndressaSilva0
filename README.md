@@ -47,11 +47,9 @@ Hello there! I'm **Andressa Silva**, a passionate Computer Science student dedic
 
 <div align="center">
 
-[![Andressa's Github Stats](https://github-readme-stats.vercel.app/api?username=AndressaSilva0&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/AndressaSilva0)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AndressaSilva0&theme=midnight-purple)](https://git.io/streak-stats)
 
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaSilva0&layout=compact&theme=radical&count_private=true&langs_count=8)](https://github.com/AndressaSilva0)
 
 </div>
 
