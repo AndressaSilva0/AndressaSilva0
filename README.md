@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=180&section=header&text=Hello,%20I'm%20Andressa!&fontSize=50&fontColor=ffffff&fontAlign=50&animation=fadeIn" width="100%"/>
-</div>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/58/19/13/5819137cba0fc66e52020446777d8638.gif" width="180" alt="Coding Cat"/>
